@@ -16,4 +16,4 @@ To set up tensor in windows system first, and conduct analytics based on tensorf
 - download tensorflow-cpu in the new environment
 >python -m pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow-1.1.0-cp35-cp35m-win_amd64.whl
 
-### with tensorflow, conduct ML & Deep Learning
+### With tensorflow, conduct ML & Deep Learning
